@@ -28,4 +28,4 @@ A full stack mern AI image generation app that uses dall.e api in order to allow
 - **Mongoose**: MongoDB object modeling tool
 - **Cloudinary**: Image repository
 ### API
-- **Pollinations Ai**:
+- **Pollinations Ai**
